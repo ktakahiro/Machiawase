@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "183215530216",
+    "firebase_url": "https://machiawase-5527d.firebaseio.com",
+    "project_id": "machiawase-5527d",
+    "storage_bucket": "machiawase-5527d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183215530216:android:f2b18c7b79d082e3",
+        "android_client_info": {
+          "package_name": "jp.ac.titech.itpro.sdl.machiawase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183215530216-ah9ptl3ma0velns2gnpi93gerdvsjiqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.ac.titech.itpro.sdl.machiawase",
+            "certificate_hash": "3b05fa848c0d76efe993970008e60311d2de65bc"
+          }
+        },
+        {
+          "client_id": "183215530216-ecj9chpv6por8k0qhjgc056ageb2ju62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcI4vFpu8ty-n62ahvhtXBHx5kB_tyvOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183215530216-ecj9chpv6por8k0qhjgc056ageb2ju62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

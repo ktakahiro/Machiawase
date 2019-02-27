@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Machiawase</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">Machiawase</string>
+    <string name="group_name">Group Name</string>
+    <string name="password">Password</string>
+    <string name="name">Your Name</string>
+    <string name="button1">Sign in</string>
+    <string name="button2">New Group</string>
+
+</resources>
